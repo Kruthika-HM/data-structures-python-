@@ -72,12 +72,8 @@ class SLL:
 
 
 
-a=SLL(20)
-a.insert_at_start(30)
-a.insert_at_start(20)
-a.insert_at_last(30)
-a.insert_after(a.search(20),25)
-a.print_list()
+
+
 
 
 
